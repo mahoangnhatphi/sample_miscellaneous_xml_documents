@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><root xmlns="http://mahoangnhatphi.github.io">
+    <company fromPage="http://xyz.vn">
+        <id>e93bdc99-e1fd-43f4-b2c2-4a3d7e7b9c84</id>
+        <name>Utc Aerospace Systems</name>
+        <street>6745 oakley</street>
+        <city>Springfield</city>
+        <country>United States</country>
+        <phoneNumber>434-631-0282</phoneNumber>
+        <creditCardNumber>348118542204194</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>fa78f69a-d49b-4f84-bd0a-515b04ec0b38</id>
+        <name>Marsh &amp; Mclennan Companies</name>
+        <street>9164 financial</street>
+        <city>Gilbert</city>
+        <country>United States</country>
+        <phoneNumber>(617) 265-2905</phoneNumber>
+        <creditCardNumber>342555089236731</creditCardNumber>
+    </company>
+    <company fromPage="http://xyz.vn">
+        <id>9b545ec5-48b5-43b6-96f6-6e35c62accf4</id>
+        <name>The Chubb Corporation</name>
+        <street>4242 catherine</street>
+        <city>Fresno</city>
+        <country>United States</country>
+        <phoneNumber>212-938-8792</phoneNumber>
+        <creditCardNumber>3567784969709706</creditCardNumber>
+    </company>
+    <company fromPage="http://xyz.vn">
+        <id>1543811e-049c-4427-9baa-88c04f1e6faf</id>
+        <name>Radioshack Corporation</name>
+        <street>7219 avenue g</street>
+        <city>Springfield</city>
+        <country>United States</country>
+        <phoneNumber>617-147-2084</phoneNumber>
+        <creditCardNumber>6389208463594009</creditCardNumber>
+    </company>
+    <account>
+        <id>1</id>
+        <username>ltopaz0</username>
+        <password>1YayKM</password>
+        <firstname>Lilith</firstname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>1</id>
+        <name>Dremel Lawn And Garden Rotary Tool Kit</name>
+        <price>980311.47</price>
+        <quantity>371760</quantity>
+        <importedDate>07/06/2013</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>1b27a7ee-24b5-4968-a186-1d455a9628a2</id>
+        <name>Paychex</name>
+        <street>9531 edens cicero av</street>
+        <city>Honolulu</city>
+        <country>United States</country>
+        <phoneNumber>(214) 734-5207</phoneNumber>
+        <creditCardNumber>6304344230625610</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>0cf50271-67c8-4e33-83bb-9cea52a715c2</id>
+        <name>Rite Aid Corporation</name>
+        <street>8858 columbus sub</street>
+        <city>Omaha</city>
+        <country>United States</country>
+        <phoneNumber>(252) 265-7894</phoneNumber>
+        <creditCardNumber>6388306270308901</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>4f9451fd-4acc-4bd9-b9df-b4ea59951767</id>
+        <name>Sears Holdings Corporation</name>
+        <street>8204 lsd recreation dr</street>
+        <city>Mobile</city>
+        <country>United States</country>
+        <phoneNumber>(615) 173-1348</phoneNumber>
+        <creditCardNumber>6376324413631919</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>2</id>
+        <name>Ingersoll Rand Start Up Kit # 32305880</name>
+        <price>871130.9</price>
+        <quantity>10740</quantity>
+        <importedDate>12/03/2015</importedDate>
+    </product>
+    <account>
+        <id>2</id>
+        <username>agresch1</username>
+        <password>oCneYvkzRN</password>
+        <firstname>Alana</firstname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>3</id>
+        <name>High-temp Cordless Glue Gun White</name>
+        <price>731824.21</price>
+        <quantity>856774</quantity>
+        <importedDate>27/03/2013</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>4</id>
+        <name>Dixon Valve Air Chief Industrial Quick Connect Fittings - Dc25 Septls238dc25</name>
+        <price>644842.57</price>
+        <quantity>164182</quantity>
+        <importedDate>08/11/2017</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>5127daba-793d-4516-91f5-d2ac5439b561</id>
+        <name>Amerisourcebergen</name>
+        <street>7584 mccormick place</street>
+        <city>Moreno Valley</city>
+        <country>United States</country>
+        <phoneNumber>919-671-0755</phoneNumber>
+        <creditCardNumber>30527465480198</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>9a773f79-ea5e-43eb-b94f-abe52ad1d47b</id>
+        <name>Service Corporation International</name>
+        <street>5631 pleasant</street>
+        <city>Chesapeake</city>
+        <country>United States</country>
+        <phoneNumber>(408) 132-4180</phoneNumber>
+        <creditCardNumber>30093796175833</creditCardNumber>
+    </company>
+    <account>
+        <id>3</id>
+        <username>cmacparland2</username>
+        <password>mL1fwixiI</password>
+        <firstname>Clint</firstname>
+        <lastname>MacParland</lastname>
+    </account>
+    <company fromPage="http://xyz.vn">
+        <id>ae8d4e3c-3bd2-43cd-8575-84861b72c7d3</id>
+        <name>Leggett &amp; Plattorporated</name>
+        <street>2702 hubbard lower</street>
+        <city>Omaha</city>
+        <country>United States</country>
+        <phoneNumber>248-124-2206</phoneNumber>
+        <creditCardNumber>3567983712416268</creditCardNumber>
+    </company>
+    <product fromPage="http://abc.com">
+        <id>5</id>
+        <name>Dremel 7-piece Saw-max Cutting Kit Sm700</name>
+        <price>334019.08</price>
+        <quantity>268281</quantity>
+        <importedDate>25-05-2016</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>6</id>
+        <name>Diteq Gasket Core Drills Accessories</name>
+        <price>617591.05</price>
+        <quantity>317644</quantity>
+        <importedDate>15/06/2014</importedDate>
+    </product>
+    <account>
+        <id>4</id>
+        <username>lfiske3</username>
+        <password>WfCOxO8M2n0V</password>
+        <firstname>Lennie</firstname>
+        <lastname>Fiske</lastname>
+    </account>
+
+    <account>
+        <id>5</id>
+        <username>acaley4</username>
+        <password>c9f1qXuT5</password>
+        <firstname>Allyn</firstname>
+        <lastname>Caley</lastname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>7</id>
+        <name>Campbell Hausfeld 62 Piece Air Tool Kit</name>
+        <price>816731.01</price>
+        <quantity>780558</quantity>
+        <importedDate>28-09-2010</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>b680b9ee-a0e0-463d-9e23-03302037dd52</id>
+        <name>Unum Group</name>
+        <street>5165 lamon</street>
+        <city>Modesto</city>
+        <country>United States</country>
+        <phoneNumber>(504) 985-7549</phoneNumber>
+        <creditCardNumber>5118702588062868</creditCardNumber>
+    </company>
+    <account>
+        <id>6</id>
+        <username>ltremellan5</username>
+        <password>zUjCvb</password>
+        <firstname>Lyndsie</firstname>
+    </account>
+    <account>
+        <id>7</id>
+        <username>bosculley6</username>
+        <password>HQhmuZkWFw6C</password>
+        <firstname>Beltran</firstname>
+        <lastname>O'Sculley</lastname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>8</id>
+        <name>Bostitch Prozhoze 3/8 X 100 Hopb38100</name>
+        <price>451207.6</price>
+        <quantity>996706</quantity>
+        <importedDate>03/10/2014</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>9</id>
+        <name>Striker Adjustable Garage Parking Sensor</name>
+        <price>79894.34</price>
+        <quantity>91897</quantity>
+        <importedDate>24-06-2011</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>6d229136-51c6-453f-ba5b-89aef7eb0da5</id>
+        <name>Federal Home Loan Mortgage Corporation</name>
+        <street>391 kenosha</street>
+        <city>Norman</city>
+        <country>United States</country>
+        <phoneNumber>(217) 152-4492</phoneNumber>
+        <creditCardNumber>36905531397618</creditCardNumber>
+    </company>
+    <account>
+        <id>8</id>
+        <username>mstanislaw7</username>
+        <password>KoIhQ2lq7z</password>
+        <firstname>Marena</firstname>
+        <lastname>Stanislaw</lastname>
+    </account>
+    <account>
+        <id>9</id>
+        <username>gmilington8</username>
+        <password>pUshbxVzPXGw</password>
+        <firstname>Godfrey</firstname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>10</id>
+        <name>California Air Tools 6.3 Gallon Ultra Quiet And Oil-free 1.0 Hp Steel Tank Air Compressor</name>
+        <price>750567.68</price>
+        <quantity>492540</quantity>
+        <importedDate>27/09/2015</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>58369730-567f-4625-bf1e-3d6e008efeb1</id>
+        <name>Reader's Digest Association</name>
+        <street>5853 south water ramp</street>
+        <city>Jacksonville</city>
+        <country>United States</country>
+        <phoneNumber>(843) 779-9344</phoneNumber>
+        <creditCardNumber>6376005420018568</creditCardNumber>
+    </company>
+    <account>
+        <id>10</id>
+        <username>cclingan9</username>
+        <password>lmIUUTAD3sL</password>
+        <firstname>Correna</firstname>
+        <lastname>Clingan</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>05e3b3cd-368f-4b5e-9924-2300b3c57675</id>
+        <name>First Data Corporation</name>
+        <street>2784 matson</street>
+        <city>San Diego</city>
+        <country>United States</country>
+        <phoneNumber>(908) 216-8996</phoneNumber>
+        <creditCardNumber>3560272536266563</creditCardNumber>
+    </company>
+    <company fromPage="http://xyz.vn">
+        <id>6f0484b6-2cc4-4779-9a73-4bad8196d879</id>
+        <name>Ameren Corporation</name>
+        <street>633 willow</street>
+        <city>Manchester</city>
+        <country>United States</country>
+        <phoneNumber>616-407-7532</phoneNumber>
+        <creditCardNumber>3546120702514085</creditCardNumber>
+    </company>
+    <product fromPage="http://abc.com">
+        <id>11</id>
+        <name>Black &amp; Decker 18v Cordless Drill Set Gco18sfb</name>
+        <price>360201.05</price>
+        <quantity>256060</quantity>
+        <importedDate>07-12-2016</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>7bf681ba-e62c-43cc-89a0-e591df92a8ae</id>
+        <name>Cablevision Systems Corp</name>
+        <street>6945 63rd</street>
+        <city>Independence</city>
+        <country>United States</country>
+        <phoneNumber>520-867-9133</phoneNumber>
+        <creditCardNumber>5020516961772068</creditCardNumber>
+    </company>
+    <account>
+        <id>11</id>
+        <username>hmoyseya</username>
+        <password>gzotPUs</password>
+        <firstname>Hildegarde</firstname>
+        <lastname>Moysey</lastname>
+    </account>
+    <account>
+        <id>12</id>
+        <username>pburstoweb</username>
+        <password>lKjqiE9</password>
+        <firstname>Paige</firstname>
+    </account>
+    <account>
+        <id>13</id>
+        <username>wkonzelc</username>
+        <password>IOoX7C</password>
+        <firstname>Weber</firstname>
+    </account>
+    <account>
+        <id>14</id>
+        <username>kfarnworthd</username>
+        <password>tp6nOrW9</password>
+        <firstname>Kylynn</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>a5744e02-52e2-4f90-b979-45535473b332</id>
+        <name>Rite Aid Corporation</name>
+        <street>226 lind</street>
+        <city>Irving</city>
+        <country>United States</country>
+        <phoneNumber>(785) 922-3974</phoneNumber>
+        <creditCardNumber>30361043702646</creditCardNumber>
+    </company>
+    <account>
+        <id>15</id>
+        <username>cpilgere</username>
+        <password>0dcubh9ns</password>
+        <firstname>Corny</firstname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>12</id>
+        <name>Skil 74102 10in 200 Tooth Steel Circular Saw Blade</name>
+        <price>583807.96</price>
+        <quantity>427641</quantity>
+        <importedDate>04-10-2012</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>0e62073b-a5e0-46a1-837e-6fe2c5eb22d1</id>
+        <name>Bed Bath And Beyond</name>
+        <street>4900 monitor</street>
+        <city>Baton Rouge</city>
+        <country>United States</country>
+        <phoneNumber>(540) 933-6639</phoneNumber>
+        <creditCardNumber>6466207636107240</creditCardNumber>
+    </company>
+    <account>
+        <id>16</id>
+        <username>sstrottonf</username>
+        <password>8yBJ48jfwJn</password>
+        <firstname>Sansone</firstname>
+    </account>
+    <account>
+        <id>17</id>
+        <username>frogerong</username>
+        <password>BLBPqTXNhl</password>
+        <firstname>Frederica</firstname>
+    </account>
+    <account>
+        <id>18</id>
+        <username>uhenrikssonh</username>
+        <password>cWfSn6Er</password>
+        <firstname>Udall</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>9aad8f88-4cb4-4d83-86b6-9db9f2643f9e</id>
+        <name>Nvr</name>
+        <street>7921 ib northwest</street>
+        <city>Norman</city>
+        <country>United States</country>
+        <phoneNumber>(671) 648-5636</phoneNumber>
+        <creditCardNumber>6706311549821655</creditCardNumber>
+    </company>
+    <account>
+        <id>19</id>
+        <username>wcoldridgei</username>
+        <password>8TneTiOvuag2</password>
+        <firstname>Win</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>7b1b17a5-b6d2-469b-84e6-7ed243a63dd9</id>
+        <name>Usg Corporation</name>
+        <street>1891 kennedy north av</street>
+        <city>Independence</city>
+        <country>United States</country>
+        <phoneNumber>(904) 934-9578</phoneNumber>
+        <creditCardNumber>6381303469717676</creditCardNumber>
+    </company>
+    <account>
+        <id>20</id>
+        <username>kwhittonj</username>
+        <password>mgqJvE</password>
+        <firstname>Kerrie</firstname>
+        <lastname>Whitton</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>acfcee7d-7ccf-4dd4-b23f-571f731b8065</id>
+        <name>Intuit</name>
+        <street>4027 53rd</street>
+        <city>Winston-salem</city>
+        <country>United States</country>
+        <phoneNumber>(478) 198-8721</phoneNumber>
+        <creditCardNumber>30288295126697</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>13</id>
+        <name>Rockwell Shopseries 7 Amp 1/2 Hammer Drill</name>
+        <price>587476.87</price>
+        <quantity>612359</quantity>
+        <importedDate>03/07/2010</importedDate>
+    </product>
+    <account>
+        <id>21</id>
+        <username>cshearmurk</username>
+        <password>4qy6Rma</password>
+        <firstname>Clarinda</firstname>
+        <lastname>Shearmur</lastname>
+    </account>
+    <account>
+        <id>22</id>
+        <username>mkilshalll</username>
+        <password>S9Kvcu11B1s</password>
+        <firstname>Madonna</firstname>
+        <lastname>Kilshall</lastname>
+    </account>
+    <account>
+        <id>23</id>
+        <username>thalshawm</username>
+        <password>5B3F32Gr</password>
+        <firstname>Townsend</firstname>
+        <lastname>Halshaw</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>301b676b-bd3b-419d-8223-f2c2fa50018c</id>
+        <name>Air Products And Chemicals</name>
+        <street>9924 walnut</street>
+        <city>Tempe</city>
+        <country>United States</country>
+        <phoneNumber>(435) 666-8620</phoneNumber>
+        <creditCardNumber>4350272722751693</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>64e3ea2b-8357-4df3-a491-2c02e13af371</id>
+        <name>Gnc</name>
+        <street>2276 rice</street>
+        <city>Allentown</city>
+        <country>United States</country>
+        <phoneNumber>(916) 557-9694</phoneNumber>
+        <creditCardNumber>6499498577231336</creditCardNumber>
+    </company>
+    <account>
+        <id>24</id>
+        <username>ndreschen</username>
+        <password>Cb5ZnC8b</password>
+        <firstname>Nert</firstname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>14</id>
+        <name>Black And Decker 20v Max Lithium Drill And Circular Saw Kit Bdcd220rs</name>
+        <price>820865.48</price>
+        <quantity>150163</quantity>
+        <importedDate>17/04/2017</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>15</id>
+        <name>Ingersoll Rand 705-93 Trigger</name>
+        <price>997993.6</price>
+        <quantity>450362</quantity>
+        <importedDate>24-08-2011</importedDate>
+    </product>
+    <account>
+        <id>25</id>
+        <username>leilerso</username>
+        <password>cWMzgMht1V</password>
+        <firstname>Leoine</firstname>
+        <lastname>Eilers</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>d69a84f9-407b-4ab9-b608-90b06f8a311f</id>
+        <name>Dupont</name>
+        <street>2327 ogallah</street>
+        <city>Alexandria</city>
+        <country>United States</country>
+        <phoneNumber>(832) 401-7789</phoneNumber>
+        <creditCardNumber>5492786497643815</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>16</id>
+        <name>Ad-tech: High-temp Glue Sticks 5/16 X 4 100pk</name>
+        <price>275232.7</price>
+        <quantity>698859</quantity>
+        <importedDate>13/04/2013</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>17</id>
+        <name>Buffalo Tools Pro Series 12 Piece Router Bit Set</name>
+        <price>365099.57</price>
+        <quantity>827486</quantity>
+        <importedDate>23-01-2016</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>18</id>
+        <name>Black &amp; Decker 20v Smart Select Cordless Drill</name>
+        <price>267611.61</price>
+        <quantity>128423</quantity>
+        <importedDate>29/01/2015</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>19</id>
+        <name>Bosch 2240-01 12 Volt Cordless Drill And Driver</name>
+        <price>731964.31</price>
+        <quantity>521182</quantity>
+        <importedDate>13-04-2011</importedDate>
+    </product>
+    <account>
+        <id>26</id>
+        <username>cbagnoldp</username>
+        <password>AGSLauw28Yz</password>
+        <firstname>Charles</firstname>
+        <lastname>Bagnold</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>bb3cb67e-6886-4195-9df0-6e693caafd65</id>
+        <name>Unisys Corporation</name>
+        <street>3245 oakview</street>
+        <city>Baton Rouge</city>
+        <country>United States</country>
+        <phoneNumber>(956) 926-7532</phoneNumber>
+        <creditCardNumber>6011495902676630</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>20</id>
+        <name>Hitachi 7 Disc Grinder</name>
+        <price>895188.37</price>
+        <quantity>314174</quantity>
+        <importedDate>15/08/2012</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>3ec02f87-706d-4d7c-97dd-318e3d994809</id>
+        <name>Owens Corning</name>
+        <street>9864 chester</street>
+        <city>Sacramento</city>
+        <country>United States</country>
+        <phoneNumber>575-362-2508</phoneNumber>
+        <creditCardNumber>6762446379879786</creditCardNumber>
+    </company>
+    <account>
+        <id>27</id>
+        <username>cstodeq</username>
+        <password>FZMTofQAYJL</password>
+        <firstname>Currey</firstname>
+        <lastname>Stode</lastname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>21</id>
+        <name>Alton 2 Gallon Pancake Air Compressor</name>
+        <price>586897.79</price>
+        <quantity>442173</quantity>
+        <importedDate>20/03/2015</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>22</id>
+        <name>Black &amp; Decker 20-volt Matrix Drill Bdcdmt120</name>
+        <price>986539.81</price>
+        <quantity>965365</quantity>
+        <importedDate>25/10/2011</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>4be19af2-e596-4dcc-8562-d4b906db1411</id>
+        <name>Stanley Black &amp; Decker</name>
+        <street>5983 avers</street>
+        <city>Sterling Heights</city>
+        <country>United States</country>
+        <phoneNumber>(503) 207-5126</phoneNumber>
+        <creditCardNumber>4732324047201273</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>23</id>
+        <name>Black &amp; Decker 30-piece Bullet Screwdriving And Drilling Set 71-130</name>
+        <price>8618.42</price>
+        <quantity>961150</quantity>
+        <importedDate>28/12/2017</importedDate>
+    </product>
+    <account>
+        <id>28</id>
+        <username>vstantonr</username>
+        <password>g6e1Rs</password>
+        <firstname>Vinson</firstname>
+    </account>
+    <company fromPage="http://xyz.vn">
+        <id>eb1644a9-d088-4002-b5f3-f7cf6cf41ea8</id>
+        <name>C. R. Bardorporated</name>
+        <street>8997 hollett</street>
+        <city>Boston</city>
+        <country>United States</country>
+        <phoneNumber>502-146-5141</phoneNumber>
+        <creditCardNumber>5442648537385396</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>24</id>
+        <name>Bostitch Air Compressor Ball Drain Valve Btfp72327</name>
+        <price>449721.81</price>
+        <quantity>467982</quantity>
+        <importedDate>29/11/2013</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>25</id>
+        <name>Dremel Universal Multi-knife Blade Mm430</name>
+        <price>427008.15</price>
+        <quantity>508599</quantity>
+        <importedDate>21-05-2016</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>c1119322-0594-4f9a-ba19-aa2df707afe2</id>
+        <name>State Street Corporation</name>
+        <street>8284 jensen</street>
+        <city>San Bernardino</city>
+        <country>United States</country>
+        <phoneNumber>(516) 250-6096</phoneNumber>
+        <creditCardNumber>5261605694840033</creditCardNumber>
+    </company>
+    <account>
+        <id>29</id>
+        <username>fpluess</username>
+        <password>kJC1ka7</password>
+        <firstname>Farly</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>06df8832-d755-46d6-992f-9caeb6fe7ca3</id>
+        <name>Praxair</name>
+        <street>27 austin av jfk</street>
+        <city>Miami</city>
+        <country>United States</country>
+        <phoneNumber>(432) 595-1654</phoneNumber>
+        <creditCardNumber>6304098190193924</creditCardNumber>
+    </company>
+    <account>
+        <id>30</id>
+        <username>ikaminskit</username>
+        <password>BZPylvoVu</password>
+        <firstname>Izzy</firstname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>26</id>
+        <name>Great Neck Saw Ra38 3/8 Drive Forward And Reverse Ratchet</name>
+        <price>479878.35</price>
+        <quantity>350786</quantity>
+        <importedDate>10-08-2011</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>27</id>
+        <name>Dremel Workstation 220-01</name>
+        <price>294307.03</price>
+        <quantity>495859</quantity>
+        <importedDate>06/01/2011</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>a7ea4d79-a590-4297-a431-3f9b384a135e</id>
+        <name>Goldman Sachs</name>
+        <street>6966 edgewater</street>
+        <city>San Diego</city>
+        <country>United States</country>
+        <phoneNumber>(703) 510-0031</phoneNumber>
+        <creditCardNumber>3542223553625721</creditCardNumber>
+    </company>
+    <account>
+        <id>31</id>
+        <username>eokinneallyu</username>
+        <password>vZT00R9qHW</password>
+        <firstname>Eimile</firstname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>28</id>
+        <name>Fein Asb 14 + Afmm 14 14.4v 4ah Cordless Fmm + Hammer Drill</name>
+        <price>882750.0</price>
+        <quantity>622406</quantity>
+        <importedDate>19-07-2014</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>29</id>
+        <name>Black &amp; Decker Micro Mouse Sander Ms800b</name>
+        <price>142363.76</price>
+        <quantity>75286</quantity>
+        <importedDate>14-09-2014</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>dcec9cae-bbed-437c-9e37-6e50b65707cc</id>
+        <name>Diversey</name>
+        <street>1093 london</street>
+        <city>Boston</city>
+        <country>United States</country>
+        <phoneNumber>316-799-9585</phoneNumber>
+        <creditCardNumber>5499856193244326</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>f0851921-5e40-4194-8bc7-b72ffbff6677</id>
+        <name>Metlife</name>
+        <street>2350 76th st ford city</street>
+        <city>Spokane</city>
+        <country>United States</country>
+        <phoneNumber>(740) 832-6639</phoneNumber>
+        <creditCardNumber>5400257223031130</creditCardNumber>
+    </company>
+    <account>
+        <id>32</id>
+        <username>lbaileyv</username>
+        <password>FzYWsQsQy</password>
+        <firstname>Lee</firstname>
+        <lastname>Bailey</lastname>
+    </account>
+    <account>
+        <id>33</id>
+        <username>hcoventonw</username>
+        <password>tJjQNPPn</password>
+        <firstname>Henryetta</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>c9bf6870-3fc5-418c-9324-b8c46afefe0e</id>
+        <name>St. Jude Medical</name>
+        <street>3840 lake shore</street>
+        <city>Wichita</city>
+        <country>United States</country>
+        <phoneNumber>(302) 949-3396</phoneNumber>
+        <creditCardNumber>4913362216247595</creditCardNumber>
+    </company>
+    <account>
+        <id>34</id>
+        <username>nmatthewesx</username>
+        <password>miCWyFt5R</password>
+        <firstname>Nolana</firstname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>fa91d53c-5100-4277-b065-88b72560545d</id>
+        <name>Berry Plastics Corporation</name>
+        <street>9671 merrion</street>
+        <city>Baltimore</city>
+        <country>United States</country>
+        <phoneNumber>(818) 661-3531</phoneNumber>
+        <creditCardNumber>6709857664960410</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>30</id>
+        <name>Great Neck Saw Ra14 1/4 Drive Forward And Reverse Ratchet</name>
+        <price>591748.34</price>
+        <quantity>962690</quantity>
+        <importedDate>23/08/2012</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>32</id>
+        <name>12-volt Lith-ion Drill W/ Bonus Case &amp; 150-piece Socket Set</name>
+        <price>308803.35</price>
+        <quantity>768090</quantity>
+        <importedDate>05-03-2015</importedDate>
+    </product>
+    <account>
+        <id>35</id>
+        <username>kmcgeraghtyy</username>
+        <password>ibEuF28</password>
+        <firstname>Kienan</firstname>
+    </account>
+    <account>
+        <id>36</id>
+        <username>vardernz</username>
+        <password>BQ5ws02</password>
+        <firstname>Vincent</firstname>
+        <lastname>Ardern</lastname>
+    </account>
+    <company fromPage="http://xyz.vn">
+        <id>579ff972-a1e1-476e-8674-e65641a68dca</id>
+        <name>Harley-davidson</name>
+        <street>2129 ainslie</street>
+        <city>Irving</city>
+        <country>United States</country>
+        <phoneNumber>440-912-3396</phoneNumber>
+        <creditCardNumber>6474150269842289</creditCardNumber>
+    </company>
+    <account>
+        <id>37</id>
+        <username>kmariyushkin10</username>
+        <password>Vl6FfV3uieNy</password>
+        <firstname>Kali</firstname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>33</id>
+        <name>Masterflow 12v Portable Air Compressor / Inflator</name>
+        <price>95491.83</price>
+        <quantity>942657</quantity>
+        <importedDate>06-01-2012</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>1be93390-85d1-4a7f-b3e7-2072e236f077</id>
+        <name>Energizer Holdings</name>
+        <street>5534 stevenson</street>
+        <city>Lansing</city>
+        <country>United States</country>
+        <phoneNumber>(303) 716-8721</phoneNumber>
+        <creditCardNumber>4293014493299696</creditCardNumber>
+    </company>
+    <product fromPage="http://abc.com">
+        <id>34</id>
+        <name>Ingersoll Rand 244a 1/2-inch Drive Super Duty Impact Wrench</name>
+        <price>82978.54</price>
+        <quantity>348716</quantity>
+        <importedDate>15-12-2017</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>54197d77-cacc-4754-898b-f9d566dad109</id>
+        <name>Tesoro Corporation</name>
+        <street>536 kerfoot</street>
+        <city>Warren</city>
+        <country>United States</country>
+        <phoneNumber>848-929-7796</phoneNumber>
+        <creditCardNumber>6396262265944616</creditCardNumber>
+    </company>
+    <product fromPage="http://abc.com">
+        <id>35</id>
+        <name>Ingersoll Rand Impact 1/2</name>
+        <price>566350.55</price>
+        <quantity>212629</quantity>
+        <importedDate>29-07-2013</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>36</id>
+        <name>Drill America Cone Carbide Burr 1/4 Shank</name>
+        <price>555888.6</price>
+        <quantity>153809</quantity>
+        <importedDate>20-03-2012</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>39</id>
+        <name>Irwin 7-piece Drive Set 1885553</name>
+        <price>792531.26</price>
+        <quantity>49063</quantity>
+        <importedDate>21-10-2016</importedDate>
+    </product>
+    <company fromPage="http://abc.com">
+        <id>8a203915-8c3f-4aac-9119-30d237a2741b</id>
+        <name>Ppg Industries</name>
+        <street>8749 church</street>
+        <city>Virginia Beach</city>
+        <country>United States</country>
+        <phoneNumber>(787) 433-6030</phoneNumber>
+        <creditCardNumber>3546790223676579</creditCardNumber>
+    </company>
+    <account>
+        <id>38</id>
+        <username>mbird11</username>
+        <password>2oMiUmz2k64z</password>
+        <firstname>Mikaela</firstname>
+    </account>
+    <account>
+        <id>39</id>
+        <username>wwiggans12</username>
+        <password>3BEquBtq</password>
+        <firstname>Willie</firstname>
+        <lastname>Wiggans</lastname>
+    </account>
+    <account>
+        <id>40</id>
+        <username>kburnall13</username>
+        <password>WYfM0OPICzoL</password>
+        <firstname>Keelby</firstname>
+        <lastname>Burnall</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>fe766441-79b2-4977-a97e-c4becf8a7bd5</id>
+        <name>Family Dollar Stores</name>
+        <street>2522 garland</street>
+        <city>Arlington</city>
+        <country>United States</country>
+        <phoneNumber>(419) 489-1967</phoneNumber>
+        <creditCardNumber>6465776407492651</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>ce437a99-7e3c-4440-8d10-6d161471d1d4</id>
+        <name>Bio-rad Laboratories</name>
+        <street>17 leoti</street>
+        <city>Greensboro</city>
+        <country>United States</country>
+        <phoneNumber>(419) 940-3179</phoneNumber>
+        <creditCardNumber>343270166608062</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>42</id>
+        <name>Campbell Hausfeld 2-1/2 Finish Nailer (16 Gauge)</name>
+        <price>436427.23</price>
+        <quantity>116600</quantity>
+        <importedDate>22/08/2016</importedDate>
+    </product>
+    <account>
+        <id>41</id>
+        <username>igillam14</username>
+        <password>aGvtFKwHzV</password>
+        <firstname>Iorgo</firstname>
+        <lastname>Gillam</lastname>
+    </account>
+    <account>
+        <id>42</id>
+        <username>ncaddy15</username>
+        <password>u9kdTds</password>
+        <firstname>Ninette</firstname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>43</id>
+        <name>Apex Tool Group Llc-tools 7135w Soldering Gun Tip</name>
+        <price>696792.11</price>
+        <quantity>23986</quantity>
+        <importedDate>13-06-2015</importedDate>
+    </product>
+    <account>
+        <id>43</id>
+        <username>jnutley16</username>
+        <password>8fAt1JT7I</password>
+        <firstname>Jarrad</firstname>
+        <lastname>Nutley</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>6b27611e-1024-4a04-adda-b24374965158</id>
+        <name>Visteon Corporation</name>
+        <street>9849 105th</street>
+        <city>Hialeah</city>
+        <country>United States</country>
+        <phoneNumber>(910) 701-5290</phoneNumber>
+        <creditCardNumber>370551411808409</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>44</id>
+        <name>Numax 16-gauge Straight Finish Nailer</name>
+        <price>101828.05</price>
+        <quantity>121670</quantity>
+        <importedDate>22/06/2017</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>acbecaa7-6365-49ec-ad50-a968a6777d1c</id>
+        <name>The Travelers Companies</name>
+        <street>4894 dan ryan roosevelt st</street>
+        <city>Portland</city>
+        <country>United States</country>
+        <phoneNumber>856-984-5898</phoneNumber>
+        <creditCardNumber>4280582936670520</creditCardNumber>
+    </company>
+    <product fromPage="http://xyz.vn">
+        <id>45</id>
+        <name>Black And Decker Power Tools Gco.12sfb 12-volt Cordless Drill With Stud Sensor And St</name>
+        <price>530135.6</price>
+        <quantity>246295</quantity>
+        <importedDate>16/10/2017</importedDate>
+    </product>
+    <account>
+        <id>44</id>
+        <username>amcdade17</username>
+        <password>fYwBkS</password>
+        <firstname>Arte</firstname>
+        <lastname>McDade</lastname>
+    </account>
+    <product fromPage="http://abc.com">
+        <id>46</id>
+        <name>Skil 10 Count U Shank Jigsaw Blade Set 94910</name>
+        <price>157130.74</price>
+        <quantity>457699</quantity>
+        <importedDate>11-09-2012</importedDate>
+    </product>
+    <company fromPage="http://xyz.vn">
+        <id>b0e63e3c-90d4-4fd6-900f-2a6f5329ad97</id>
+        <name>Crown Castle International Corp</name>
+        <street>3582 minnehaha</street>
+        <city>Aurora</city>
+        <country>United States</country>
+        <phoneNumber>320-307-5221</phoneNumber>
+        <creditCardNumber>6706095294161553</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>45e1c8a5-a05c-439c-8450-b7d06039d09f</id>
+        <name>Commercial Metals Company</name>
+        <street>219 eberhart</street>
+        <city>Austin</city>
+        <country>United States</country>
+        <phoneNumber>(832) 671-3529</phoneNumber>
+        <creditCardNumber>4175008025349170</creditCardNumber>
+    </company>
+    <account>
+        <id>45</id>
+        <username>abetteriss18</username>
+        <password>t5sh3Wk</password>
+        <firstname>Antoine</firstname>
+    </account>
+    <account>
+        <id>46</id>
+        <username>hkerrane19</username>
+        <password>IZk5d9Vl7j</password>
+        <firstname>Hershel</firstname>
+    </account>
+    <product fromPage="http://xyz.vn">
+        <id>47</id>
+        <name>Black &amp; Decker Matrix Oscillating Head Attachment Bdcmto</name>
+        <price>503602.35</price>
+        <quantity>966497</quantity>
+        <importedDate>13/12/2014</importedDate>
+    </product>
+    <product fromPage="http://abc.com">
+        <id>48</id>
+        <name>Black &amp; Decker Micro Mouse Sander Ms800b</name>
+        <price>179643.12</price>
+        <quantity>74959</quantity>
+        <importedDate>18-06-2015</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>49</id>
+        <name>Alphafry Soldering Paste Flux &amp; Brush Am51011</name>
+        <price>687683.27</price>
+        <quantity>970895</quantity>
+        <importedDate>29/05/2017</importedDate>
+    </product>
+    <product fromPage="http://xyz.vn">
+        <id>50</id>
+        <name>Hitachi 1/4 X 100 Polyurethane Air Hose With Automotive Plug And Coupler</name>
+        <price>562209.63</price>
+        <quantity>631648</quantity>
+        <importedDate>12/11/2013</importedDate>
+    </product>
+    <account>
+        <id>47</id>
+        <username>hperel1a</username>
+        <password>3obgBWH</password>
+        <firstname>Humfrey</firstname>
+    </account>
+    <account>
+        <id>48</id>
+        <username>bscoates1b</username>
+        <password>yuvFWcrDlVx</password>
+        <firstname>Bessy</firstname>
+        <lastname>Scoates</lastname>
+    </account>
+    <company fromPage="http://xyz.vn">
+        <id>1552a0a3-11fd-46f0-91db-037cdce13a89</id>
+        <name>Targa Resources</name>
+        <street>5967 eriksen</street>
+        <city>Baltimore</city>
+        <country>United States</country>
+        <phoneNumber>269-608-4580</phoneNumber>
+        <creditCardNumber>5463794963107781</creditCardNumber>
+    </company>
+    <account>
+        <id>49</id>
+        <username>lparmeter1c</username>
+        <password>tjtlTMpSO</password>
+        <firstname>Lonny</firstname>
+        <lastname>Parmeter</lastname>
+    </account>
+    <account>
+        <id>50</id>
+        <username>fcinelli1d</username>
+        <password>brx6WhpaSh</password>
+        <firstname>Federico</firstname>
+        <lastname>Cinelli</lastname>
+    </account>
+    <company fromPage="http://abc.com">
+        <id>9887b54a-2f35-417b-b807-e0b622f88930</id>
+        <name>Alpha Natural Resources</name>
+        <street>2978 lowell</street>
+        <city>Alexandria</city>
+        <country>United States</country>
+        <phoneNumber>(205) 283-5372</phoneNumber>
+        <creditCardNumber>6304478746139490</creditCardNumber>
+    </company>
+    <company fromPage="http://abc.com">
+        <id>1bfe737c-e073-4669-a99d-c743a93ccc31</id>
+        <name>Yahoo!</name>
+        <street>2202 edens wilson av</street>
+        <city>Naperville</city>
+        <country>United States</country>
+        <phoneNumber>(918) 303-3690</phoneNumber>
+        <creditCardNumber>30361155367774</creditCardNumber>
+    </company>
+    <company fromPage="http://xyz.vn">
+        <id>0a1d5a34-44df-47fa-8852-629107ac7bea</id>
+        <name>Kb Home</name>
+        <street>8797 hudson</street>
+        <city>Glendale</city>
+        <country>United States</country>
+        <phoneNumber>671-813-1786</phoneNumber>
+        <creditCardNumber>4930372043671502</creditCardNumber>
+    </company>
+    <company fromPage="http://xyz.vn">
+        <id>018a79c1-d923-4c03-be80-9ac29818f8c9</id>
+        <name>Newmont Mining Corporation</name>
+        <street>5445 rumsey</street>
+        <city>Savannah</city>
+        <country>United States</country>
+        <phoneNumber>720-731-9022</phoneNumber>
+        <creditCardNumber>4891895968246238</creditCardNumber>
+    </company>
+</root>
